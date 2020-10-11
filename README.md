@@ -7,4 +7,5 @@
 5. [Reading advice and thoughts on books](https://twitter.com/AlexAndBooks_/status/1302811435760783362) - thread by [@naval](https://twitter.com/naval)
 6. [Valuable advice for junior developers](https://twitter.com/tucker_dev/status/1306619121476362240) - thread by [@tucker_dev](https://twitter.com/tucker_dev)
 7. [Bookshelfs](https://twitter.com/david_perell/status/1195009016054853632) - thread by [@david_perell](https://twitter.com/david_perell)
+8. [Brunello Cucinelli radical approach to business](https://twitter.com/david_perell/status/1315426534900092929) - thread by [@david_perell](https://twitter.com/david_perell)
 
