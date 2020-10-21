@@ -8,4 +8,6 @@
 6. [Valuable advice for junior developers](https://twitter.com/tucker_dev/status/1306619121476362240) - thread by [@tucker_dev](https://twitter.com/tucker_dev)
 7. [Bookshelfs](https://twitter.com/david_perell/status/1195009016054853632) - thread by [@david_perell](https://twitter.com/david_perell)
 8. [Brunello Cucinelli radical approach to business](https://twitter.com/david_perell/status/1315426534900092929) - thread by [@david_perell](https://twitter.com/david_perell)
+9. [Pro tips for tech interviewing](https://twitter.com/devonbl/status/1318944166651613185) - thread by [@devonbl](https://twitter.com/devonbl)
+10. 
 
