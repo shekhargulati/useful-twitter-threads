@@ -10,4 +10,4 @@
 8. [Brunello Cucinelli radical approach to business](https://twitter.com/david_perell/status/1315426534900092929) - thread by [@david_perell](https://twitter.com/david_perell)
 9. [Pro tips for tech interviewing](https://twitter.com/devonbl/status/1318944166651613185) - thread by [@devonbl](https://twitter.com/devonbl)
 10. [Books everybody refer but nobody reads](https://twitter.com/david_perell/status/1303921481710219264) - thread by [@david_perell](https://twitter.com/david_perell)
-
+11. [10 life-altering ideas](https://twitter.com/jackbutcher/status/1321216300409098243) - thread by [@jackbutcher](https://twitter.com/jackbutcher)
