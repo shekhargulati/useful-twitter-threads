@@ -12,3 +12,4 @@
 10. [Books everybody refer but nobody reads](https://twitter.com/david_perell/status/1303921481710219264) - thread by [@david_perell](https://twitter.com/david_perell)
 11. [10 life-altering ideas](https://twitter.com/jackbutcher/status/1321216300409098243) - thread by [@jackbutcher](https://twitter.com/jackbutcher)
 12. [AMA with James Clear](https://twitter.com/JamesClear/status/1321908884949372929) - thread by [@JamesClear](https://twitter.com/JamesClear)
+13. [What awesome YouTube interviews or YouTube educational videos should I watch?](https://twitter.com/Julian/status/1322786111559589890) - thread by [@Julian](https://twitter.com/Julian)
