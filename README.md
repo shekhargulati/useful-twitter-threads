@@ -1,5 +1,8 @@
 # useful-twitter-threads
 
+> Why this list is `useful` not `awesome`? 
+> Because most `awesome-*` lists are useless.
+
 1. [Philosophy, Deep Learning and Thinking](https://twitter.com/_patriciamou/status/1296654041569570819) - thread by [@_patriciamou](https://twitter.com/_patriciamou)
 2. [On Hiring](https://twitter.com/svpino/status/1289431085525295105) - thread by [@svpino](https://twitter.com/svpino)
 3. [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936) - thread by [@naval](https://twitter.com/naval)
@@ -14,3 +17,4 @@
 12. [AMA with James Clear](https://twitter.com/JamesClear/status/1321908884949372929) - thread by [@JamesClear](https://twitter.com/JamesClear)
 13. [What awesome YouTube interviews or YouTube educational videos should I watch?](https://twitter.com/Julian/status/1322786111559589890) - thread by [@Julian](https://twitter.com/Julian)
 14. [AMA with Naval](https://twitter.com/naval/status/1322759857980678145) - thread by [@naval](https://twitter.com/naval)
+15. [Productionization new languages at Google](https://twitter.com/rakyll/status/1293026308524584960) - thread by [@rakyll](https://twitter.com/rakyll)
