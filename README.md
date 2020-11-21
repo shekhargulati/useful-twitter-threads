@@ -18,3 +18,4 @@
 13. [What awesome YouTube interviews or YouTube educational videos should I watch?](https://twitter.com/Julian/status/1322786111559589890) - thread by [@Julian](https://twitter.com/Julian)
 14. [AMA with Naval](https://twitter.com/naval/status/1322759857980678145) - thread by [@naval](https://twitter.com/naval)
 15. [Productionization new languages at Google](https://twitter.com/rakyll/status/1293026308524584960) - thread by [@rakyll](https://twitter.com/rakyll)
+16. [Compounding skills](https://twitter.com/jackbutcher/status/1330183607034449920) - thread by [@jackbutcher](https://twitter.com/jackbutcher)
