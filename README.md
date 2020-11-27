@@ -21,3 +21,4 @@
 16. [Compounding skills](https://twitter.com/jackbutcher/status/1330183607034449920) - thread by [@jackbutcher](https://twitter.com/jackbutcher)
 17. [What would it take to earn $100k/year off a YouTube channel?](https://twitter.com/jackbutcher/status/1330887410922741760) - thread by [@jackbutcher](https://twitter.com/jackbutcher)
 18. [What is one idea or principle from your area of expertise that can be generalized and applied to other areas of life?](https://twitter.com/JamesClear/status/1332314862278615042) - thready by [@JamesClear](https://twitter.com/JamesClear)
+19. [Probabilistic Thinking](https://twitter.com/ShaneAParrish/status/1332340450372575234) - thread by [@ShaneAParrish](https://twitter.com/ShaneAParrish)
