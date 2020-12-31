@@ -23,3 +23,4 @@
 18. [What is one idea or principle from your area of expertise that can be generalized and applied to other areas of life?](https://twitter.com/JamesClear/status/1332314862278615042) - thready by [@JamesClear](https://twitter.com/JamesClear)
 19. [Probabilistic Thinking](https://twitter.com/ShaneAParrish/status/1332340450372575234) - thread by [@ShaneAParrish](https://twitter.com/ShaneAParrish)
 20. [Building product in the fintech & payments space](https://twitter.com/will_lawrenceTO/status/1340020554527596550) - thread by [@will_lawrenceTO](https://twitter.com/will_lawrenceTO)
+21. ['It Doesn't Have to Be Crazy at Work' Book Key Takeaways](https://twitter.com/grahamkmann/status/1344344072228663296) - thread by [@grahamkmann](https://twitter.com/grahamkmann)
