@@ -26,3 +26,4 @@
 21. ['It Doesn't Have to Be Crazy at Work' Book Key Takeaways](https://twitter.com/grahamkmann/status/1344344072228663296) - thread by [@grahamkmann](https://twitter.com/grahamkmann)
 22. [Ideas](https://twitter.com/patrick_oshag/status/1342918119526981643) - thread by [@patrick_oshag](https://twitter.com/patrick_oshag)
 23. [The Almanack of Naval Ravikant](https://twitter.com/visualizevalue/status/1346476905889861632) - thread by [@visualizevalue](https://twitter.com/visualizevalue)
+24. [Useful Razors](https://twitter.com/george__mack/status/1350513143387189248) - thready by [@george__mack](https://twitter.com/george__mack)
