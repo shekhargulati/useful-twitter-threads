@@ -27,3 +27,4 @@
 22. [Ideas](https://twitter.com/patrick_oshag/status/1342918119526981643) - thread by [@patrick_oshag](https://twitter.com/patrick_oshag)
 23. [The Almanack of Naval Ravikant](https://twitter.com/visualizevalue/status/1346476905889861632) - thread by [@visualizevalue](https://twitter.com/visualizevalue)
 24. [Useful Razors](https://twitter.com/george__mack/status/1350513143387189248) - thready by [@george__mack](https://twitter.com/george__mack)
+25. [Topgrading Interview Process](https://twitter.com/vpecoach/status/1353370224859353088) - thread by [@vpecoach](https://twitter.com/vpecoach)
