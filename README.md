@@ -28,3 +28,4 @@
 23. [The Almanack of Naval Ravikant](https://twitter.com/visualizevalue/status/1346476905889861632) - thread by [@visualizevalue](https://twitter.com/visualizevalue)
 24. [Useful Razors](https://twitter.com/george__mack/status/1350513143387189248) - thready by [@george__mack](https://twitter.com/george__mack)
 25. [Topgrading Interview Process](https://twitter.com/vpecoach/status/1353370224859353088) - thread by [@vpecoach](https://twitter.com/vpecoach)
+26. [Writing is one of the best things you can invest in, as a software engineer](https://twitter.com/GergelyOrosz/status/1353661833236926470) - thread by [@GergelyOrosz](https://twitter.com/GergelyOrosz)
