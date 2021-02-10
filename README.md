@@ -31,3 +31,4 @@
 26. [Writing is one of the best things you can invest in, as a software engineer](https://twitter.com/GergelyOrosz/status/1353661833236926470) - thread by [@GergelyOrosz](https://twitter.com/GergelyOrosz)
 27. [Jeff Bezos's 23 letters to Amazon shareholders](https://twitter.com/sumitgrrg/status/1356943550932422658) - thread by [@sumitgrrg](https://twitter.com/sumitgrrg)
 28. [A thread on the 10 biggest money mistakes I see people make](https://twitter.com/dollarsanddata/status/1358830579450544130) - thready by [@dollarsanddata](https://twitter.com/dollarsanddata)
+29. [I hate my job, I'm going to quit and start my own company. How hard can it be?](https://twitter.com/QuinnyPig/status/1359363159916597248) - thread by [@QuinnyPig](https://twitter.com/QuinnyPig)
