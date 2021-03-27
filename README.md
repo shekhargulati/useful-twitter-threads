@@ -33,3 +33,4 @@
 28. [A thread on the 10 biggest money mistakes I see people make](https://twitter.com/dollarsanddata/status/1358830579450544130) - thready by [@dollarsanddata](https://twitter.com/dollarsanddata)
 29. [I hate my job, I'm going to quit and start my own company. How hard can it be?](https://twitter.com/QuinnyPig/status/1359363159916597248) - thread by [@QuinnyPig](https://twitter.com/QuinnyPig)
 30. [What to do in your first two weeks of starting a new job](https://twitter.com/QuinnyPig/status/1370575853554266118) - thread by [@QuinnyPig](https://twitter.com/QuinnyPig)
+31. [10 Keystones of Personal Development for Staff-Plus Engineers](https://twitter.com/thiagoghisi/status/1375554860406480905) - thready by [@thiagoghisi](https://twitter.com/thiagoghisi)
