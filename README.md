@@ -35,4 +35,5 @@
 30. [What to do in your first two weeks of starting a new job](https://twitter.com/QuinnyPig/status/1370575853554266118) - thread by [@QuinnyPig](https://twitter.com/QuinnyPig)
 31. [10 Keystones of Personal Development for Staff-Plus Engineers](https://twitter.com/thiagoghisi/status/1375554860406480905) - thready by [@thiagoghisi](https://twitter.com/thiagoghisi)
 32. [On creator economy](https://twitter.com/jmikolay/status/1376575545341804549) - thready by [@jmikolay](https://twitter.com/jmikolay)
-33. [If you’re presenting to your manager, leadership team, or an executive trying to convince them to make a call, I have a presentation format for you to follow](https://twitter.com/jaffoneh/status/1376945166771056641) - [@jaffoneh](https://twitter.com/jaffoneh)
+33. [If you’re presenting to your manager, leadership team, or an executive trying to convince them to make a call, I have a presentation format for you to follow](https://twitter.com/jaffoneh/status/1376945166771056641) - thread by [@jaffoneh](https://twitter.com/jaffoneh)
+34. [How to tell when you're working on the wrong thing](https://twitter.com/Julian/status/1384971872928944129) - thread by [@Julian](https://twitter.com/Julian) 
